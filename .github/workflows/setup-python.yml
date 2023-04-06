@@ -1,5 +1,0 @@
-- name: Setup Python
-  uses: actions/setup-python@v3.1.3
-  with:
-    python-version: '3.x'
-    architecture: 'x64'
