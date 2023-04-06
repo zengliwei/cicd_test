@@ -1,2 +1,2 @@
-# cicd_test
+# CI/CD Test
 Test CI/CD with Github
